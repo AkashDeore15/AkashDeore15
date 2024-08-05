@@ -12,8 +12,9 @@ I'm a Software Developer and seasoned Information Technology Engineer from India
 
 📚 Education & Learning:
 
--**Master of Science in Computer Science**  at New Jersey Institute of Technology, New Jersey, USA. Deep diving into Data Structures, cloud computing, cyber security and more, aiming to graduate in May 2026.
--**Bachelor of Engineering in Information Technology** from Savitribai Phule Pune University, Maharashtra, India, where I honed my foundational skills and graduated with a CGPA of 8.34.
+**Master of Science in Computer Science**  at New Jersey Institute of Technology, New Jersey, USA. Deep diving into Data Structures, cloud computing, cyber security and more, aiming to graduate in May 2026.
+
+**Bachelor of Engineering in Information Technology** from Savitribai Phule Pune University, Maharashtra, India, where I honed my foundational skills and graduated with a CGPA of 8.34.
 
 💻 Professional Path:
 

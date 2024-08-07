@@ -46,10 +46,6 @@ Deepening my knowledge in Advanced Data Structures and Data Science, I am fascin
 Implementing my technical skills to tackle challenges in core computer science and cybersecurity domains.
 Continuously learning and contributing to projects that push the boundaries of what's possible.
 
-## 📈 GitHub Stats
-
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkashDeore15&show_icons=true&theme=radical)
-
 ## 🌟 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-sanjay-deore)

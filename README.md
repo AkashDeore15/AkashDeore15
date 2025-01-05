@@ -28,8 +28,8 @@ Deepening my knowledge in Advanced Data Structures and Data Science, I am fascin
 ## 🛠️ Skills
 
 - **Programming Languages**: Python, Java, C/C++
-- **Frameworks and Libraries**: FastAPI, TensorFlow, Keras, Pytorch
-- **Web Development**: HTML5, CSS3, JavaScript
+- **Frameworks and Libraries**: FastAPI, TensorFlow, Keras, Pytorch, Angular
+- **Web Development**: HTML5, CSS3, JavaScript, TypeScript
 - **Software Development Practices**: Agile Development, Git Version Control
 - **Cloud Platforms**: AWS, Azure
 - **Databases**: SQL, MongoDB

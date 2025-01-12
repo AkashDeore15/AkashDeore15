@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=akashsdeore&color=green)
 
 ## 🚀 About Me
-I'm a Software Developer and seasoned Information Technology Engineer from India, currently expanding my horizons with a Master's in Computer Science at the New Jersey Institute of Technology (NJIT), USA. I have experience of over 2.5 years in Identity and Access Management (IAM) and Governance, with hands-on experience in software development and testing methodologies, tools, and techniques. Skilled in collaborating with cross-functional teams, contributing to various projects, and ensuring product quality through rigorous testing and debugging.
+I'm a Software Developer and seasoned Information Technology Engineer from India, currently expanding my horizons with a Master's in Computer Science at the New Jersey Institute of Technology (NJIT), USA. I have experience of over 3 years in Identity and Access Management (IAM) and Governance, with hands-on experience in software development and testing methodologies, tools, and techniques. Skilled in collaborating with cross-functional teams, contributing to various projects, and ensuring product quality through rigorous testing and debugging.
 
 - 🔭 I’m currently working on an Operating Systems Project of developing a CPU Scheduling algorithm simulator.  
 - 🌱 I’m currently preparing for the ISC2 Certified Cloud Security Professional (CCSP) Certification Exam . 

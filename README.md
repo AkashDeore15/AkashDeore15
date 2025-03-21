@@ -4,8 +4,8 @@
 ## 🚀 About Me
 I'm a Software Developer and seasoned Information Technology Engineer from India, currently expanding my horizons with a Master's in Computer Science at the New Jersey Institute of Technology (NJIT), USA. I have experience of over 3 years in Identity and Access Management (IAM) and Governance, with hands-on experience in software development and testing methodologies, tools, and techniques. Skilled in collaborating with cross-functional teams, contributing to various projects, and ensuring product quality through rigorous testing and debugging.
 
-- 🔭 I’m currently working on an Operating Systems Project of developing a CPU Scheduling algorithm simulator.  
-- 🌱 I’m currently preparing for the ISC2 Certified Cloud Security Professional (CCSP) Certification Exam . 
+- 🔭 I’m currently working on an Advanced Search Engine project 
+- 🌱 I’m currently preparing for the AWS Certified Cloud Solutions Architect Associate certification. 
 - 🤔 I’m looking for help with a Software Development Summer Internship 2025. 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love freezing moments through my sketching. 

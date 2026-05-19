@@ -5,13 +5,13 @@ I'm a Software Developer and seasoned Information Technology Engineer from India
 
 - 🔭 I’m currently working on an Advanced Search Engine project 
 - 🌱 I’m currently preparing for the AWS Certified Cloud Solutions Architect Associate certification. 
-- 🤔 I’m looking for help with a Software Development Summer Internship 2025. 
+- 🤔 I’m looking for help with a Software Developer -Cloud security full time roles. 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love freezing moments through my sketching. 
 
 📚 Education & Learning:
 
-**Master of Science in Computer Science**  at New Jersey Institute of Technology, New Jersey, USA. Deep diving into Data Structures, cloud computing, cyber security and more, aiming to graduate in May 2026.
+**Master of Science in Computer Science**  at New Jersey Institute of Technology, New Jersey, USA. Deep diving into Data Structures, cloud computing, cyber security and graduated in May 2026.
 
 **Bachelor of Engineering in Information Technology** from Savitribai Phule Pune University, Maharashtra, India, where I honed my foundational skills and graduated with a CGPA of 8.34.
 
@@ -37,6 +37,7 @@ Deepening my knowledge in Advanced Data Structures and Data Science, I am fascin
 ## 🏆 Achievements
 
 - **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)**
+- **AWS Certified Cloud Practitioner**
 - **Saviynt IGA L200**
 - **Saviynt IGA L100**
 

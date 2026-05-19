@@ -1,40 +1,35 @@
-# Hi there, I'm Akash Deore!👋
+# Hi, I'm Akash Deore 👋
+### Cloud Systems & IAM Engineer | Security Automation
 
-## 🚀 About Me
-I'm a Software Developer and seasoned Information Technology Engineer from India, currently expanding my horizons with a Master's in Computer Science at the New Jersey Institute of Technology (NJIT), USA. I have experience of over 3 years in Identity and Access Management (IAM) and Governance, with hands-on experience in software development and testing methodologies, tools, and techniques. Skilled in collaborating with cross-functional teams, contributing to various projects, and ensuring product quality through rigorous testing and debugging.
+I specialize in Identity and Access Management (IAM), Cloud Infrastructure, and Security Automation. With over 3 years of enterprise experience bridging the gap between security compliance and operational efficiency, I build infrastructure where identity is treated as a security discipline, not just an IT checkbox.
 
-- 🔭 I’m currently working on an Advanced Search Engine project 
-- 🌱 I’m currently preparing for the AWS Certified Cloud Solutions Architect Associate certification. 
-- 🤔 I’m looking for help with a Software Developer -Cloud security full time roles. 
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love freezing moments through my sketching. 
+🔐 What I Do
 
-📚 Education & Learning:
+Identity Governance: Architecting and automating IAM pipelines using Saviynt IGA, Azure Entra ID, and SailPoint IdentityIQ.
 
-**Master of Science in Computer Science**  at New Jersey Institute of Technology, New Jersey, USA. Deep diving into Data Structures, cloud computing, cyber security and graduated in May 2026.
+Cloud Infrastructure: Designing secure, scalable AWS and Azure environments.
 
-**Bachelor of Engineering in Information Technology** from Savitribai Phule Pune University, Maharashtra, India, where I honed my foundational skills and graduated with a CGPA of 8.34.
+Automation & Tooling: Building Python and PowerShell scripts for SIEM integration, log parsing, and automated provisioning.
 
-💻 Professional Path:
+🚀 Current Status
 
-From Accenture as a Security Delivery Analyst to a student at NJIT, my career reflects a commitment to innovation, excellence, and education.
-My professional experience spans developing chatbots to significantly reducing response times, enhancing Python automation scripts for efficiency, and contributing to impactful projects like predictive models for healthcare.
+Education: Recently completed an MS in Computer Science at NJIT (May 2026), focusing on cryptography, cloud computing, and AI-driven security.
 
-🔍 Current Explorations:
+Projects: Developing an Advanced Search Engine and automating VPN log compliance reporting.
 
-Deepening my knowledge in Advanced Data Structures and Data Science, I am fascinated by its power to drive insights and innovations. I am also exploring Web Systems Development and learning how to implement Automated Testing and develop Responsive Web Designs. 
+Looking For: Full-time Cloud Security and IAM Engineering roles.
 
-## 🛠️ Skills
+🛠️ Tech Stack
 
-- **Programming Languages**: Python, Java, C/C++
-- **Frameworks and Libraries**: FastAPI, TensorFlow, Keras, Pytorch, Angular
-- **Web Development**: HTML5, CSS3, JavaScript, TypeScript
-- **Software Development Practices**: Agile Development, Git Version Control
-- **Cloud Platforms**: AWS, Azure
-- **Databases**: SQL, MongoDB
-- **Other Tools and Technologies**: Saviynt Identity Cloud, Microsoft SQL Server, Microsoft Active Directory, CyberArk, ServiceNow, Splunk
+Languages: Python, Java, PowerShell, C/C++
+
+Identity & Security: Saviynt IGA, Azure Entra ID, SailPoint, OAuth 2.0, SAML, SSO, CyberArk
+
+Cloud & DevOps: AWS, Azure, Microservices architecture
+
+Tools: ServiceNow, Splunk, Untangle, NinjaRMM
   
-## 🏆 Achievements
+## 🏆 Certification
 
 - **Microsoft Security, Compliance, and Identity Fundamentals (SC-900)**
 - **AWS Certified Cloud Practitioner**

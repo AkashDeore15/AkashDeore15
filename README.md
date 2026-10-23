@@ -19,9 +19,9 @@
 
 ## 🎯 Professional Summary
 
-**Cloud Security Engineer** with **3+ years** of enterprise-grade experience delivering secure, scalable cloud infrastructure solutions across **AWS, Azure, and GCP**. Deep expertise in **Identity and Access Management (IAM)**, **Infrastructure as Code (IaC)**, and **security automation** aligned with **NIST frameworks** and **CIS Benchmarks**. Proven track record of reducing security incidents by **65%** through automated IAM governance pipelines and cutting infrastructure costs by **$16K+** while maintaining **99.9% data integrity**.
+**Cloud Security Engineer** with **4+ years** of enterprise-grade experience delivering secure, scalable cloud infrastructure solutions across **AWS, Azure, and GCP**. Deep expertise in **Identity and Access Management (IAM)**, **Infrastructure as Code (IaC)**, and **security automation** aligned with **NIST frameworks** and **CIS Benchmarks**. Proven track record of reducing security incidents by **65%** through automated IAM governance pipelines and cutting infrastructure costs by **$16K+** while maintaining **99.9% data integrity**.
 
-Currently pursuing **Master of Science in Computer Science** at **New Jersey Institute of Technology** (Expected May 2026) while serving as a **Graduate Teaching Assistant** for networking courses. Former **Security Delivery Analyst** at **Accenture**, where I architected RBAC/ABAC frameworks, implemented SSO authentication flows, and built Python-based SIEM integrations that increased threat detection by **40%**.
+Completed my**Master of Science in Computer Science** at **New Jersey Institute of Technology** (Expected May 2026) while serving as a **Graduate Teaching Assistant** for networking courses. Former **Security Delivery Analyst** at **Accenture**, where I architected RBAC/ABAC frameworks, implemented SSO authentication flows, and built Python-based SIEM integrations that increased threat detection by **40%**.
 
 **Core Competencies:** Cloud Security Architecture • IAM & Identity Governance • Infrastructure Automation • DevSecOps • Microservices Architecture • Compliance Engineering • Incident Response • Security Monitoring
 
@@ -151,7 +151,7 @@ timeline
                   : IAM & SIEM Integration
         2025-Present : Graduate Teaching Assistant
                      : NJIT Networking Courses
-        2026-Present : Systems Administrator Intern
+        2026-Present : Systems Administrator
                      : JM Technical Services Inc
 ```
 
@@ -159,7 +159,7 @@ timeline
 
 ## 💼 Professional Experience
 
-### 🔹 Systems Administrator Intern
+### 🔹 Systems Administrator
 **JM Technical Services Inc.** | *Jan 2026 - Present*
 
 - 🚀 **Infrastructure Automation:** Provisioned scalable cloud infrastructure using **Infrastructure as Code (IaC)** principles with **Terraform** and **CloudFormation**, reducing deployment lead time by **20%** and enforcing security baselines for standardized account provisioning
